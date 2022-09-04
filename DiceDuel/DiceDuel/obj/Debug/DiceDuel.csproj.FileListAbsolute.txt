@@ -1,0 +1,10 @@
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\bin\Debug\DiceDuel.exe.config
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\bin\Debug\DiceDuel.exe
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\bin\Debug\DiceDuel.pdb
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.csprojAssemblyReference.cache
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.Form1.resources
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.Properties.Resources.resources
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.csproj.GenerateResource.cache
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.csproj.CoreCompileInputs.cache
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.exe
+C:\Users\31685\source\repos\DiceDuel\DiceDuel\obj\Debug\DiceDuel.pdb

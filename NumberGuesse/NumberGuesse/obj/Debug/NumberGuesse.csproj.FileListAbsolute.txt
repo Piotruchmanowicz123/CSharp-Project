@@ -1,0 +1,11 @@
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\bin\Debug\NumberGuesse.exe.config
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\bin\Debug\NumberGuesse.exe
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\bin\Debug\NumberGuesse.pdb
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.csprojAssemblyReference.cache
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.Form1.resources
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.Properties.Resources.resources
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.csproj.GenerateResource.cache
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.csproj.CoreCompileInputs.cache
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.exe
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.pdb
+C:\Users\31685\source\repos\NumberGuesse\NumberGuesse\obj\Debug\NumberGuesse.Winner.resources
